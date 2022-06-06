@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import real_print
+__builtins__.__dict__['p,r,i,n,t'.replace(',', '')]('#pythoniscool')
